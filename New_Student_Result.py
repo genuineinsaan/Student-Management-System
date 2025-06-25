@@ -61,7 +61,7 @@ class ReportClass:
 
     def fetch_rolls(self):
         try:
-            con = mysql.connector.connect(host="localhost", user="root", password="sanjana1432", database="student_system")
+            con = mysql.connector.connect(host="localhost", user="root", password="", database="student_system")
             cur = con.cursor()
             cur.execute("SELECT roll FROM result")
             rolls = [str(row[0]) for row in cur.fetchall()]

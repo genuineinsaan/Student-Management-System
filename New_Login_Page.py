@@ -90,7 +90,7 @@ class LoginApp:
 
     def get_connection(self):
         return mysql.connector.connect(host="localhost", user="root",
-                                       password="sanjana1432", database="student_system")
+                                       password="", database="student_system")
 
     def login_user(self):
         try:

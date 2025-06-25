@@ -100,7 +100,7 @@ class RMS:
 
     def get_connection(self):
         return mysql.connector.connect(
-            host="localhost", user="root", password="sanjana1432", database="student_system"
+            host="localhost", user="root", password="", database="student_system"
         )
 
     def fetch_course(self):

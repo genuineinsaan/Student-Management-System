@@ -112,7 +112,7 @@ class StudentClass:
         self.show()
 
     def get_connection(self):
-        return mysql.connector.connect(host="localhost", user="root", password="sanjana1432", database="student_system")
+        return mysql.connector.connect(host="localhost", user="root", password="", database="student_system")
 
     def add(self):
         try:

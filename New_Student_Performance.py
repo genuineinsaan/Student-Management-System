@@ -79,7 +79,7 @@ class ResultClass:
     def load_roll_numbers(self):
         try:
             con = mysql.connector.connect(
-                host="localhost", user="root", password="sanjana1432", database="student_system"
+                host="localhost", user="root", password="", database="student_system"
             )
             cur = con.cursor()
             cur.execute("SELECT roll FROM student")

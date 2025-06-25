@@ -171,7 +171,7 @@ class ResultClass:
             messagebox.showerror("Error", "Please search for a student first.")
             return
         try:
-            con = mysql.connector.connect(host="localhost", user="root", password="sanjana1432", database="student_system")
+            con = mysql.connector.connect(host="localhost", user="root", password="", database="student_system")
             cur = con.cursor()
             cur.execute("SELECT * FROM result WHERE roll = %s", (self.var_roll.get(),))
             row = cur.fetchone()

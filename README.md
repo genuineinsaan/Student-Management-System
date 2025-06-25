@@ -30,8 +30,6 @@ A full-featured Student Management System made using **Python (Tkinter GUI)** an
 
 ## Screenshots
 ![Login](![Login Page](https://github.com/user-attachments/assets/61604e90-7757-4a06-9522-b563d72e989c))  
-![Admin Page](![Dashboard](https://github.com/user-attachments/assets/fdecfcae-6a2c-4f11-b69e-13e4dd23aec8))  
-![Register](![Register Page](https://github.com/user-attachments/assets/68e068d3-25cb-4937-bca4-5495560bace3)
-)
+![Register](![Register Page](https://github.com/user-attachments/assets/68e068d3-25cb-4937-bca4-5495560bace3))
 
 ## GitHub: [https://github.com/ginsaan](https://github.com/ginsaan)

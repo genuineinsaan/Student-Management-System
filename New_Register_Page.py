@@ -84,7 +84,7 @@ class Register:
         return mysql.connector.connect(
             host="localhost",
             user="root",
-            password="sanjana1432",
+            password="",
             database="student_system"
         )
     def back(self):

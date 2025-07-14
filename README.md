@@ -3,8 +3,8 @@
 
 A full-featured Student Management System made using **Python (Tkinter GUI)** and **MySQL**.
 
-> 🔧 Originally created by my **Aadityathepro - Aditya Choudhary**
-> ✨ Upgraded and redesigned by **Shashank Srivastava**
+> 🔧 Originally created by my [**Adityasankhya - Aditya Choudhary**](https://github.com/AdiWork933)
+> ✨ Upgraded and redesigned by [**Shashank Srivastava**](https://github.com/ginsaan)
 
 ## Features
 
